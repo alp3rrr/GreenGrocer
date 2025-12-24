@@ -1,6 +1,6 @@
 # 🥬 GreenGrocer
 
-**reenGrocer** is a desktop application built with **Java** and **JavaFX** that simulates a grocery store experience for fruits and vegetables. It offers an intuitive graphical user interface where users can browse, add to cart, purchase items, and manage store inventory with ease.
+**GreenGrocer** is a desktop application built with **Java** and **JavaFX** that simulates a grocery store experience for fruits and vegetables. It offers an intuitive graphical user interface where users can browse, add to cart, purchase items, and manage store inventory with ease.
 
 ---
 
@@ -33,14 +33,3 @@
 - **FXML** – Declarative UI layout  
 - **CSS** – UI styling and theming  
 - **MySQL** – Persistent database storage
-
----
-
-## 🚀 Getting Started
-
-> To run the project locally:
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/reenGrocer.git
-   cd reenGrocer
